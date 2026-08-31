@@ -1,0 +1,2545 @@
+{
+  "schemaVersion": 1,
+  "inDir": "images",
+  "outDir": "images-webp",
+  "mode": "lossy q95",
+  "total": 361,
+  "converted": 360,
+  "keptOriginal": 1,
+  "skipped": 0,
+  "failed": 0,
+  "sourceBytes": 367278772,
+  "targetBytes": 47057145,
+  "renames": {
+    "05cyc7.png": "05cyc7.webp",
+    "0kwh5y.png": "0kwh5y.webp",
+    "0g9fnf.png": "0g9fnf.webp",
+    "08w4hc.png": "08w4hc.webp",
+    "0yr6sg.png": "0yr6sg.webp",
+    "0navrr.png": "0navrr.webp",
+    "0yxiix.png": "0yxiix.webp",
+    "15wje8.png": "15wje8.webp",
+    "167wf0.png": "167wf0.webp",
+    "1aflz1.png": "1aflz1.webp",
+    "1cj0iv.png": "1cj0iv.webp",
+    "1dcv40.png": "1dcv40.webp",
+    "1klj6n.png": "1klj6n.webp",
+    "1f1rcu.png": "1f1rcu.webp",
+    "1oad4q.png": "1oad4q.webp",
+    "1mllte.png": "1mllte.webp",
+    "1r2j1v.png": "1r2j1v.webp",
+    "1rvdrv.png": "1rvdrv.webp",
+    "1twpo0.png": "1twpo0.webp",
+    "1znzy5.png": "1znzy5.webp",
+    "2emcop.png": "2emcop.webp",
+    "2i5no2.png": "2i5no2.webp",
+    "2niuuh.png": "2niuuh.webp",
+    "2nmzp4.png": "2nmzp4.webp",
+    "2vc9g6.png": "2vc9g6.webp",
+    "2wkypp.png": "2wkypp.webp",
+    "2x855i.png": "2x855i.webp",
+    "318dm9.png": "318dm9.webp",
+    "35bo5w.png": "35bo5w.webp",
+    "38bke2.png": "38bke2.webp",
+    "3ljjdy.png": "3ljjdy.webp",
+    "3ncp6q.png": "3ncp6q.webp",
+    "3on1h8.png": "3on1h8.webp",
+    "3pdvv8.png": "3pdvv8.webp",
+    "3tpxea.png": "3tpxea.webp",
+    "44gat9.png": "44gat9.webp",
+    "3zh9o9.png": "3zh9o9.webp",
+    "46824q.png": "46824q.webp",
+    "4aemt7.png": "4aemt7.webp",
+    "4btopy.png": "4btopy.webp",
+    "4pquj2.png": "4pquj2.webp",
+    "4jh4b4.png": "4jh4b4.webp",
+    "4s83bi.png": "4s83bi.webp",
+    "51tn5m.png": "51tn5m.webp",
+    "5858ox.png": "5858ox.webp",
+    "4sludg.png": "4sludg.webp",
+    "541wdz.png": "541wdz.webp",
+    "562h4q.png": "562h4q.webp",
+    "589r7p.png": "589r7p.webp",
+    "5ciqrn.png": "5ciqrn.webp",
+    "61o5ja.png": "61o5ja.webp",
+    "5tveg6.png": "5tveg6.webp",
+    "64hb9a.png": "64hb9a.webp",
+    "61r4cc.png": "61r4cc.webp",
+    "62e4z0.png": "62e4z0.webp",
+    "69a3k9.png": "69a3k9.webp",
+    "6c90o8.png": "6c90o8.webp",
+    "6nsv94.png": "6nsv94.webp",
+    "6t8ata.png": "6t8ata.webp",
+    "7c2u03.png": "7c2u03.webp",
+    "7e2ym2.png": "7e2ym2.webp",
+    "7sitix.png": "7sitix.webp",
+    "80yo2f.png": "80yo2f.webp",
+    "81n4z9.png": "81n4z9.webp",
+    "8fwhlt.png": "8fwhlt.webp",
+    "84bz0t.png": "84bz0t.webp",
+    "8rn9zn.png": "8rn9zn.webp",
+    "8vttnl.png": "8vttnl.webp",
+    "8zh1k1.png": "8zh1k1.webp",
+    "9a2o8n.png": "9a2o8n.webp",
+    "9d5qc4.png": "9d5qc4.webp",
+    "9dntqh.png": "9dntqh.webp",
+    "9kowzd.png": "9kowzd.webp",
+    "9j7tut.png": "9j7tut.webp",
+    "Z-AA01.png": "Z-AA01.webp",
+    "9vodn2.png": "9vodn2.webp",
+    "9l5qhb.png": "9l5qhb.webp",
+    "9pwki9.png": "9pwki9.webp",
+    "Z-AA02.png": "Z-AA02.webp",
+    "Z-AA03.png": "Z-AA03.webp",
+    "Z-AA04.png": "Z-AA04.webp",
+    "Z-AA05.png": "Z-AA05.webp",
+    "Z-AA06.png": "Z-AA06.webp",
+    "Z-AB01.png": "Z-AB01.webp",
+    "Z-AB02.png": "Z-AB02.webp",
+    "Z-AB03.png": "Z-AB03.webp",
+    "Z-AB04.png": "Z-AB04.webp",
+    "Z-AB05.png": "Z-AB05.webp",
+    "Z-AB06.png": "Z-AB06.webp",
+    "Z-AC01.png": "Z-AC01.webp",
+    "Z-AC02.png": "Z-AC02.webp",
+    "Z-AC03.png": "Z-AC03.webp",
+    "Z-AC04.png": "Z-AC04.webp",
+    "Z-AC05.png": "Z-AC05.webp",
+    "Z-AC06.png": "Z-AC06.webp",
+    "Z-AD01.png": "Z-AD01.webp",
+    "Z-AD02.png": "Z-AD02.webp",
+    "Z-AD03.png": "Z-AD03.webp",
+    "Z-AD04.png": "Z-AD04.webp",
+    "Z-AD05.png": "Z-AD05.webp",
+    "Z-AD06.png": "Z-AD06.webp",
+    "Z-AE01.png": "Z-AE01.webp",
+    "Z-AE02.png": "Z-AE02.webp",
+    "Z-AE03.png": "Z-AE03.webp",
+    "Z-AE04.png": "Z-AE04.webp",
+    "Z-AE05.png": "Z-AE05.webp",
+    "Z-BA01.png": "Z-BA01.webp",
+    "Z-BB01.png": "Z-BB01.webp",
+    "Z-BA02.png": "Z-BA02.webp",
+    "Z-BB02.png": "Z-BB02.webp",
+    "Z-BB03.png": "Z-BB03.webp",
+    "Z-BB04.png": "Z-BB04.webp",
+    "Z-AE06.png": "Z-AE06.webp",
+    "Z-BC01.png": "Z-BC01.webp",
+    "Z-BC02.png": "Z-BC02.webp",
+    "Z-BC03.png": "Z-BC03.webp",
+    "Z-BC04.png": "Z-BC04.webp",
+    "Z-BD01.png": "Z-BD01.webp",
+    "Z-BD02.png": "Z-BD02.webp",
+    "Z-BD03.png": "Z-BD03.webp",
+    "Z-BD04.png": "Z-BD04.webp",
+    "Z-BE01.png": "Z-BE01.webp",
+    "Z-BE02.png": "Z-BE02.webp",
+    "Z-BE03.png": "Z-BE03.webp",
+    "Z-BE04.png": "Z-BE04.webp",
+    "Z-CA01.png": "Z-CA01.webp",
+    "Z-CA02.png": "Z-CA02.webp",
+    "Z-CA03.png": "Z-CA03.webp",
+    "Z-CA04.png": "Z-CA04.webp",
+    "Z-CB01.png": "Z-CB01.webp",
+    "Z-CB02.png": "Z-CB02.webp",
+    "Z-CB03.png": "Z-CB03.webp",
+    "Z-CB04.png": "Z-CB04.webp",
+    "Z-CC02.png": "Z-CC02.webp",
+    "Z-CC01.png": "Z-CC01.webp",
+    "Z-CC04.png": "Z-CC04.webp",
+    "Z-CC03.png": "Z-CC03.webp",
+    "Z-CD01.png": "Z-CD01.webp",
+    "Z-CD02.png": "Z-CD02.webp",
+    "Z-CD04.png": "Z-CD04.webp",
+    "Z-CD03.png": "Z-CD03.webp",
+    "Z-CE002.png": "Z-CE002.webp",
+    "Z-CE01.png": "Z-CE01.webp",
+    "Z-CE04.png": "Z-CE04.webp",
+    "Z-CE03.png": "Z-CE03.webp",
+    "Z-DA01.png": "Z-DA01.webp",
+    "Z-DA02.png": "Z-DA02.webp",
+    "Z-DA03.png": "Z-DA03.webp",
+    "Z-DA04.png": "Z-DA04.webp",
+    "aadb8j.png": "aadb8j.webp",
+    "a05fqm.png": "a05fqm.webp",
+    "a9hiq3.png": "a9hiq3.webp",
+    "aflz4b.png": "aflz4b.webp",
+    "aubscy.png": "aubscy.webp",
+    "avzglf.png": "avzglf.webp",
+    "b0fbrc.png": "b0fbrc.webp",
+    "b2g8tc.png": "b2g8tc.webp",
+    "b5kld4.png": "b5kld4.webp",
+    "b627bb.png": "b627bb.webp",
+    "bcqvh0.png": "bcqvh0.webp",
+    "b6k3k7.png": "b6k3k7.webp",
+    "bfcbgi.png": "bfcbgi.webp",
+    "bgwvcm.png": "bgwvcm.webp",
+    "bgyn3e.png": "bgyn3e.webp",
+    "bjrace.png": "bjrace.webp",
+    "blnj70.png": "blnj70.webp",
+    "bmvhd3.png": "bmvhd3.webp",
+    "bofnlz.png": "bofnlz.webp",
+    "bytnyj.png": "bytnyj.webp",
+    "ckfhcv.png": "ckfhcv.webp",
+    "c4hky8.png": "c4hky8.webp",
+    "cuuvoz.png": "cuuvoz.webp",
+    "clk797.png": "clk797.webp",
+    "cpbikh.png": "cpbikh.webp",
+    "cqjxh8.png": "cqjxh8.webp",
+    "cw8o9q.png": "cw8o9q.webp",
+    "cwea17.png": "cwea17.webp",
+    "d0ypl3.png": "d0ypl3.webp",
+    "d6khed.png": "d6khed.webp",
+    "dhmyks.png": "dhmyks.webp",
+    "dar44r.png": "dar44r.webp",
+    "dkib07.png": "dkib07.webp",
+    "dsxl5s.png": "dsxl5s.webp",
+    "dsysbj.png": "dsysbj.webp",
+    "dtazsq.png": "dtazsq.webp",
+    "dtmewx.png": "dtmewx.webp",
+    "dxmcti.png": "dxmcti.webp",
+    "e1l1ih.png": "e1l1ih.webp",
+    "dyhfbl.png": "dyhfbl.webp",
+    "e3ej8o.png": "e3ej8o.webp",
+    "e9isx6.png": "e9isx6.webp",
+    "ebqg2a.png": "ebqg2a.webp",
+    "eh3o9a.png": "eh3o9a.webp",
+    "ehf5w7.png": "ehf5w7.webp",
+    "etjf6s.png": "etjf6s.webp",
+    "evud06.png": "evud06.webp",
+    "f5c7ny.png": "f5c7ny.webp",
+    "f643pd.png": "f643pd.webp",
+    "f8ybgq.png": "f8ybgq.webp",
+    "fchyks.png": "fchyks.webp",
+    "fnmsf1.png": "fnmsf1.webp",
+    "ekihm7.jpg": "ekihm7.webp",
+    "ffizt1.png": "ffizt1.webp",
+    "ftqhyh.png": "ftqhyh.webp",
+    "gcg0zg.png": "gcg0zg.webp",
+    "ghyhbq.png": "ghyhbq.webp",
+    "gm7dy6.png": "gm7dy6.webp",
+    "gujl1x.png": "gujl1x.webp",
+    "gvnqm8.png": "gvnqm8.webp",
+    "gvjbi9.png": "gvjbi9.webp",
+    "gzy32u.png": "gzy32u.webp",
+    "h4qhte.png": "h4qhte.webp",
+    "hpdn69.png": "hpdn69.webp",
+    "hudk5q.png": "hudk5q.webp",
+    "hvo4ea.png": "hvo4ea.webp",
+    "i0pm5j.png": "i0pm5j.webp",
+    "i35uep.png": "i35uep.webp",
+    "i9bgpp.png": "i9bgpp.webp",
+    "ih1eil.png": "ih1eil.webp",
+    "iifhba.png": "iifhba.webp",
+    "ijyiip.png": "ijyiip.webp",
+    "ikq9d9.png": "ikq9d9.webp",
+    "iuw80r.png": "iuw80r.webp",
+    "ipcf3a.png": "ipcf3a.webp",
+    "iv07o8.png": "iv07o8.webp",
+    "iyiwqd.png": "iyiwqd.webp",
+    "iyky33.png": "iyky33.webp",
+    "ixe85e.png": "ixe85e.webp",
+    "iz80jo.png": "iz80jo.webp",
+    "j8usyf.png": "j8usyf.webp",
+    "j2e9ej.png": "j2e9ej.webp",
+    "jf142i.png": "jf142i.webp",
+    "jp5uuf.png": "jp5uuf.webp",
+    "jr56ln.png": "jr56ln.webp",
+    "jjukvz.png": "jjukvz.webp",
+    "jwnjla.png": "jwnjla.webp",
+    "k0b168.png": "k0b168.webp",
+    "k4b8oo.png": "k4b8oo.webp",
+    "k7jcfq.png": "k7jcfq.webp",
+    "k7wod2.png": "k7wod2.webp",
+    "kdk0h4.png": "kdk0h4.webp",
+    "ksafdg.png": "ksafdg.webp",
+    "kj8peg.png": "kj8peg.webp",
+    "khkjea.png": "khkjea.webp",
+    "ksrdh0.png": "ksrdh0.webp",
+    "l2ehtj.png": "l2ehtj.webp",
+    "la06hu.png": "la06hu.webp",
+    "lkaa7z.png": "lkaa7z.webp",
+    "llpiop.png": "llpiop.webp",
+    "lm6rxq.png": "lm6rxq.webp",
+    "m0j48m.png": "m0j48m.webp",
+    "loorac.png": "loorac.webp",
+    "m1ljw8.png": "m1ljw8.webp",
+    "mgw17x.png": "mgw17x.webp",
+    "mn74g8.png": "mn74g8.webp",
+    "m8phx1.png": "m8phx1.webp",
+    "mnekq1.png": "mnekq1.webp",
+    "mr9eis.png": "mr9eis.webp",
+    "mqor8d.png": "mqor8d.webp",
+    "n4wpya.png": "n4wpya.webp",
+    "nolmcr.png": "nolmcr.webp",
+    "nqi3b3.png": "nqi3b3.webp",
+    "ofspi2.png": "ofspi2.webp",
+    "oijbl9.png": "oijbl9.webp",
+    "oyoild.png": "oyoild.webp",
+    "ojr6sx.png": "ojr6sx.webp",
+    "olpdci.png": "olpdci.webp",
+    "oq79iv.png": "oq79iv.webp",
+    "p5vsei.png": "p5vsei.webp",
+    "pe757h.png": "pe757h.webp",
+    "pf5pbd.png": "pf5pbd.webp",
+    "piegj3.png": "piegj3.webp",
+    "pk5fj1.png": "pk5fj1.webp",
+    "prmwcs.png": "prmwcs.webp",
+    "puth1s.png": "puth1s.webp",
+    "puzoih.png": "puzoih.webp",
+    "pz3w01.png": "pz3w01.webp",
+    "q6bhgp.png": "q6bhgp.webp",
+    "q1px31.png": "q1px31.webp",
+    "qdxsj7.png": "qdxsj7.webp",
+    "qglf3o.png": "qglf3o.webp",
+    "qkzm5o.png": "qkzm5o.webp",
+    "qjvasw.png": "qjvasw.webp",
+    "qpkmxn.png": "qpkmxn.webp",
+    "r2k2ud.png": "r2k2ud.webp",
+    "qvw7xq.png": "qvw7xq.webp",
+    "r25xqz.png": "r25xqz.webp",
+    "r4qcq4.png": "r4qcq4.webp",
+    "r6tfxf.png": "r6tfxf.webp",
+    "rdfr4y.png": "rdfr4y.webp",
+    "rwrh1d.png": "rwrh1d.webp",
+    "rgo9eh.png": "rgo9eh.webp",
+    "rw4ziv.png": "rw4ziv.webp",
+    "s7cjrp.png": "s7cjrp.webp",
+    "sc6s3e.png": "sc6s3e.webp",
+    "s7ji5f.png": "s7ji5f.webp",
+    "suxluk.png": "suxluk.webp",
+    "sy64ua.png": "sy64ua.webp",
+    "szpkb2.png": "szpkb2.webp",
+    "szrlal.png": "szrlal.webp",
+    "t2m00z.png": "t2m00z.webp",
+    "t8uhsj.png": "t8uhsj.webp",
+    "tfvuwi.png": "tfvuwi.webp",
+    "t9frpk.png": "t9frpk.webp",
+    "texhb8.png": "texhb8.webp",
+    "ts7g84.png": "ts7g84.webp",
+    "txdnu3.png": "txdnu3.webp",
+    "tytyei.png": "tytyei.webp",
+    "u392b5.png": "u392b5.webp",
+    "u5wgvb.png": "u5wgvb.webp",
+    "u3e8bz.png": "u3e8bz.webp",
+    "u72k09.png": "u72k09.webp",
+    "u607yt.png": "u607yt.webp",
+    "udroqp.png": "udroqp.webp",
+    "ujzp8u.png": "ujzp8u.webp",
+    "ufb9ya.png": "ufb9ya.webp",
+    "uq9u9v.png": "uq9u9v.webp",
+    "ut2qq2.png": "ut2qq2.webp",
+    "v1gzxs.png": "v1gzxs.webp",
+    "uwzeny.png": "uwzeny.webp",
+    "uzp61h.png": "uzp61h.webp",
+    "veixm0.png": "veixm0.webp",
+    "vl3tex.png": "vl3tex.webp",
+    "w6suye.png": "w6suye.webp",
+    "w4na9g.png": "w4na9g.webp",
+    "w9znoh.png": "w9znoh.webp",
+    "wcb81i.png": "wcb81i.webp",
+    "wdkcob.png": "wdkcob.webp",
+    "wdxw4r.png": "wdxw4r.webp",
+    "wq12gz.png": "wq12gz.webp",
+    "wy16ur.png": "wy16ur.webp",
+    "x0ry5x.png": "x0ry5x.webp",
+    "x1swmg.png": "x1swmg.webp",
+    "x4kk6o.png": "x4kk6o.webp",
+    "x7f5wf.png": "x7f5wf.webp",
+    "x7i72d.png": "x7i72d.webp",
+    "y460em.png": "y460em.webp",
+    "xewa5f.png": "xewa5f.webp",
+    "xn584v.png": "xn584v.webp",
+    "xwscmd.png": "xwscmd.webp",
+    "y6dzit.png": "y6dzit.webp",
+    "y7pcs9.png": "y7pcs9.webp",
+    "yeophf.png": "yeophf.webp",
+    "yedti0.png": "yedti0.webp",
+    "yhevm6.png": "yhevm6.webp",
+    "yn09hi.png": "yn09hi.webp",
+    "ykmy05.png": "ykmy05.webp",
+    "yr0gtr.png": "yr0gtr.webp",
+    "yxu4rj.png": "yxu4rj.webp",
+    "z49p8n.jpg": "z49p8n.webp",
+    "yys4p9.png": "yys4p9.webp",
+    "z6dhis.png": "z6dhis.webp",
+    "z3ymei.png": "z3ymei.webp",
+    "z8wmgy.png": "z8wmgy.webp",
+    "zfg9wc.png": "zfg9wc.webp",
+    "zcvwkx.png": "zcvwkx.webp",
+    "zkzvt4.png": "zkzvt4.webp",
+    "zwpl65.jpg": "zwpl65.webp",
+    "zli749.png": "zli749.webp",
+    "zskkcu.png": "zskkcu.webp"
+  },
+  "items": [
+    {
+      "from": "05cyc7.png",
+      "to": "05cyc7.webp",
+      "sourceBytes": 1179500,
+      "targetBytes": 156474
+    },
+    {
+      "from": "0kwh5y.png",
+      "to": "0kwh5y.webp",
+      "sourceBytes": 1485165,
+      "targetBytes": 168878
+    },
+    {
+      "from": "0g9fnf.png",
+      "to": "0g9fnf.webp",
+      "sourceBytes": 1346852,
+      "targetBytes": 191638
+    },
+    {
+      "from": "08w4hc.png",
+      "to": "08w4hc.webp",
+      "sourceBytes": 1405503,
+      "targetBytes": 208070
+    },
+    {
+      "from": "0yr6sg.png",
+      "to": "0yr6sg.webp",
+      "sourceBytes": 1066029,
+      "targetBytes": 135756
+    },
+    {
+      "from": "0navrr.png",
+      "to": "0navrr.webp",
+      "sourceBytes": 1137713,
+      "targetBytes": 145552
+    },
+    {
+      "from": "0yxiix.png",
+      "to": "0yxiix.webp",
+      "sourceBytes": 1247067,
+      "targetBytes": 177324
+    },
+    {
+      "from": "15wje8.png",
+      "to": "15wje8.webp",
+      "sourceBytes": 1256506,
+      "targetBytes": 180280
+    },
+    {
+      "from": "167wf0.png",
+      "to": "167wf0.webp",
+      "sourceBytes": 1668315,
+      "targetBytes": 190788
+    },
+    {
+      "from": "1aflz1.png",
+      "to": "1aflz1.webp",
+      "sourceBytes": 1461373,
+      "targetBytes": 155048
+    },
+    {
+      "from": "1cj0iv.png",
+      "to": "1cj0iv.webp",
+      "sourceBytes": 1253506,
+      "targetBytes": 177848
+    },
+    {
+      "from": "1dcv40.png",
+      "to": "1dcv40.webp",
+      "sourceBytes": 1473604,
+      "targetBytes": 143326
+    },
+    {
+      "from": "1klj6n.png",
+      "to": "1klj6n.webp",
+      "sourceBytes": 1118647,
+      "targetBytes": 143074
+    },
+    {
+      "from": "1f1rcu.png",
+      "to": "1f1rcu.webp",
+      "sourceBytes": 1251363,
+      "targetBytes": 177228
+    },
+    {
+      "from": "1oad4q.png",
+      "to": "1oad4q.webp",
+      "sourceBytes": 945113,
+      "targetBytes": 118164
+    },
+    {
+      "from": "1mllte.png",
+      "to": "1mllte.webp",
+      "sourceBytes": 1306960,
+      "targetBytes": 173322
+    },
+    {
+      "from": "1r2j1v.png",
+      "to": "1r2j1v.webp",
+      "sourceBytes": 1245624,
+      "targetBytes": 160780
+    },
+    {
+      "from": "1rvdrv.png",
+      "to": "1rvdrv.webp",
+      "sourceBytes": 1360515,
+      "targetBytes": 189854
+    },
+    {
+      "from": "1twpo0.png",
+      "to": "1twpo0.webp",
+      "sourceBytes": 1099897,
+      "targetBytes": 136016
+    },
+    {
+      "from": "1znzy5.png",
+      "to": "1znzy5.webp",
+      "sourceBytes": 1595012,
+      "targetBytes": 183026
+    },
+    {
+      "from": "24F317E7197FFFBF40435CA8A15017F6.gif",
+      "to": "24F317E7197FFFBF40435CA8A15017F6.gif",
+      "sourceBytes": 130213,
+      "targetBytes": 130213,
+      "keptOriginal": true
+    },
+    {
+      "from": "2emcop.png",
+      "to": "2emcop.webp",
+      "sourceBytes": 1213041,
+      "targetBytes": 163856
+    },
+    {
+      "from": "2i5no2.png",
+      "to": "2i5no2.webp",
+      "sourceBytes": 1323732,
+      "targetBytes": 200484
+    },
+    {
+      "from": "2niuuh.png",
+      "to": "2niuuh.webp",
+      "sourceBytes": 1262867,
+      "targetBytes": 197090
+    },
+    {
+      "from": "2nmzp4.png",
+      "to": "2nmzp4.webp",
+      "sourceBytes": 1063409,
+      "targetBytes": 146418
+    },
+    {
+      "from": "2vc9g6.png",
+      "to": "2vc9g6.webp",
+      "sourceBytes": 1778831,
+      "targetBytes": 210706
+    },
+    {
+      "from": "2wkypp.png",
+      "to": "2wkypp.webp",
+      "sourceBytes": 1687243,
+      "targetBytes": 206354
+    },
+    {
+      "from": "2x855i.png",
+      "to": "2x855i.webp",
+      "sourceBytes": 1434474,
+      "targetBytes": 198264
+    },
+    {
+      "from": "318dm9.png",
+      "to": "318dm9.webp",
+      "sourceBytes": 1637063,
+      "targetBytes": 156794
+    },
+    {
+      "from": "35bo5w.png",
+      "to": "35bo5w.webp",
+      "sourceBytes": 907093,
+      "targetBytes": 102996
+    },
+    {
+      "from": "38bke2.png",
+      "to": "38bke2.webp",
+      "sourceBytes": 944828,
+      "targetBytes": 101052
+    },
+    {
+      "from": "3ljjdy.png",
+      "to": "3ljjdy.webp",
+      "sourceBytes": 1320752,
+      "targetBytes": 124608
+    },
+    {
+      "from": "3ncp6q.png",
+      "to": "3ncp6q.webp",
+      "sourceBytes": 1609645,
+      "targetBytes": 171674
+    },
+    {
+      "from": "3on1h8.png",
+      "to": "3on1h8.webp",
+      "sourceBytes": 1025160,
+      "targetBytes": 151818
+    },
+    {
+      "from": "3pdvv8.png",
+      "to": "3pdvv8.webp",
+      "sourceBytes": 1207198,
+      "targetBytes": 158212
+    },
+    {
+      "from": "3tpxea.png",
+      "to": "3tpxea.webp",
+      "sourceBytes": 1425845,
+      "targetBytes": 208904
+    },
+    {
+      "from": "44gat9.png",
+      "to": "44gat9.webp",
+      "sourceBytes": 1038793,
+      "targetBytes": 137454
+    },
+    {
+      "from": "3zh9o9.png",
+      "to": "3zh9o9.webp",
+      "sourceBytes": 1160446,
+      "targetBytes": 170324
+    },
+    {
+      "from": "46824q.png",
+      "to": "46824q.webp",
+      "sourceBytes": 881009,
+      "targetBytes": 117718
+    },
+    {
+      "from": "4aemt7.png",
+      "to": "4aemt7.webp",
+      "sourceBytes": 579115,
+      "targetBytes": 91916
+    },
+    {
+      "from": "4btopy.png",
+      "to": "4btopy.webp",
+      "sourceBytes": 1419157,
+      "targetBytes": 161184
+    },
+    {
+      "from": "4pquj2.png",
+      "to": "4pquj2.webp",
+      "sourceBytes": 1109491,
+      "targetBytes": 150180
+    },
+    {
+      "from": "4jh4b4.png",
+      "to": "4jh4b4.webp",
+      "sourceBytes": 1294677,
+      "targetBytes": 183638
+    },
+    {
+      "from": "4s83bi.png",
+      "to": "4s83bi.webp",
+      "sourceBytes": 1145145,
+      "targetBytes": 158270
+    },
+    {
+      "from": "51tn5m.png",
+      "to": "51tn5m.webp",
+      "sourceBytes": 346101,
+      "targetBytes": 49218
+    },
+    {
+      "from": "5858ox.png",
+      "to": "5858ox.webp",
+      "sourceBytes": 467568,
+      "targetBytes": 73758
+    },
+    {
+      "from": "4sludg.png",
+      "to": "4sludg.webp",
+      "sourceBytes": 1001709,
+      "targetBytes": 126454
+    },
+    {
+      "from": "541wdz.png",
+      "to": "541wdz.webp",
+      "sourceBytes": 1558768,
+      "targetBytes": 185382
+    },
+    {
+      "from": "562h4q.png",
+      "to": "562h4q.webp",
+      "sourceBytes": 1306864,
+      "targetBytes": 191962
+    },
+    {
+      "from": "589r7p.png",
+      "to": "589r7p.webp",
+      "sourceBytes": 963587,
+      "targetBytes": 136920
+    },
+    {
+      "from": "5ciqrn.png",
+      "to": "5ciqrn.webp",
+      "sourceBytes": 1277306,
+      "targetBytes": 112254
+    },
+    {
+      "from": "61o5ja.png",
+      "to": "61o5ja.webp",
+      "sourceBytes": 1242978,
+      "targetBytes": 183118
+    },
+    {
+      "from": "5tveg6.png",
+      "to": "5tveg6.webp",
+      "sourceBytes": 1368858,
+      "targetBytes": 205834
+    },
+    {
+      "from": "64hb9a.png",
+      "to": "64hb9a.webp",
+      "sourceBytes": 440441,
+      "targetBytes": 67270
+    },
+    {
+      "from": "61r4cc.png",
+      "to": "61r4cc.webp",
+      "sourceBytes": 1188982,
+      "targetBytes": 172098
+    },
+    {
+      "from": "62e4z0.png",
+      "to": "62e4z0.webp",
+      "sourceBytes": 1253114,
+      "targetBytes": 182206
+    },
+    {
+      "from": "69a3k9.png",
+      "to": "69a3k9.webp",
+      "sourceBytes": 1169463,
+      "targetBytes": 157156
+    },
+    {
+      "from": "6c90o8.png",
+      "to": "6c90o8.webp",
+      "sourceBytes": 1288026,
+      "targetBytes": 138318
+    },
+    {
+      "from": "6nsv94.png",
+      "to": "6nsv94.webp",
+      "sourceBytes": 1225560,
+      "targetBytes": 166882
+    },
+    {
+      "from": "6t8ata.png",
+      "to": "6t8ata.webp",
+      "sourceBytes": 1656284,
+      "targetBytes": 191318
+    },
+    {
+      "from": "7c2u03.png",
+      "to": "7c2u03.webp",
+      "sourceBytes": 1044670,
+      "targetBytes": 136186
+    },
+    {
+      "from": "7e2ym2.png",
+      "to": "7e2ym2.webp",
+      "sourceBytes": 1172900,
+      "targetBytes": 163682
+    },
+    {
+      "from": "7sitix.png",
+      "to": "7sitix.webp",
+      "sourceBytes": 1220377,
+      "targetBytes": 169360
+    },
+    {
+      "from": "80yo2f.png",
+      "to": "80yo2f.webp",
+      "sourceBytes": 1251462,
+      "targetBytes": 169962
+    },
+    {
+      "from": "81n4z9.png",
+      "to": "81n4z9.webp",
+      "sourceBytes": 1235098,
+      "targetBytes": 168266
+    },
+    {
+      "from": "8fwhlt.png",
+      "to": "8fwhlt.webp",
+      "sourceBytes": 1039136,
+      "targetBytes": 149474
+    },
+    {
+      "from": "84bz0t.png",
+      "to": "84bz0t.webp",
+      "sourceBytes": 1587494,
+      "targetBytes": 190448
+    },
+    {
+      "from": "8rn9zn.png",
+      "to": "8rn9zn.webp",
+      "sourceBytes": 1032838,
+      "targetBytes": 130360
+    },
+    {
+      "from": "8vttnl.png",
+      "to": "8vttnl.webp",
+      "sourceBytes": 1390073,
+      "targetBytes": 204452
+    },
+    {
+      "from": "8zh1k1.png",
+      "to": "8zh1k1.webp",
+      "sourceBytes": 1072614,
+      "targetBytes": 134302
+    },
+    {
+      "from": "9a2o8n.png",
+      "to": "9a2o8n.webp",
+      "sourceBytes": 1279707,
+      "targetBytes": 187126
+    },
+    {
+      "from": "9d5qc4.png",
+      "to": "9d5qc4.webp",
+      "sourceBytes": 1350962,
+      "targetBytes": 189576
+    },
+    {
+      "from": "9dntqh.png",
+      "to": "9dntqh.webp",
+      "sourceBytes": 1062330,
+      "targetBytes": 140456
+    },
+    {
+      "from": "9kowzd.png",
+      "to": "9kowzd.webp",
+      "sourceBytes": 1074827,
+      "targetBytes": 131146
+    },
+    {
+      "from": "9j7tut.png",
+      "to": "9j7tut.webp",
+      "sourceBytes": 1548836,
+      "targetBytes": 173958
+    },
+    {
+      "from": "Z-AA01.png",
+      "to": "Z-AA01.webp",
+      "sourceBytes": 288885,
+      "targetBytes": 12836
+    },
+    {
+      "from": "9vodn2.png",
+      "to": "9vodn2.webp",
+      "sourceBytes": 480713,
+      "targetBytes": 76262
+    },
+    {
+      "from": "9l5qhb.png",
+      "to": "9l5qhb.webp",
+      "sourceBytes": 1390833,
+      "targetBytes": 202544
+    },
+    {
+      "from": "9pwki9.png",
+      "to": "9pwki9.webp",
+      "sourceBytes": 962384,
+      "targetBytes": 130566
+    },
+    {
+      "from": "Z-AA02.png",
+      "to": "Z-AA02.webp",
+      "sourceBytes": 298055,
+      "targetBytes": 15326
+    },
+    {
+      "from": "Z-AA03.png",
+      "to": "Z-AA03.webp",
+      "sourceBytes": 296551,
+      "targetBytes": 16284
+    },
+    {
+      "from": "Z-AA04.png",
+      "to": "Z-AA04.webp",
+      "sourceBytes": 303262,
+      "targetBytes": 16530
+    },
+    {
+      "from": "Z-AA05.png",
+      "to": "Z-AA05.webp",
+      "sourceBytes": 305395,
+      "targetBytes": 15278
+    },
+    {
+      "from": "Z-AA06.png",
+      "to": "Z-AA06.webp",
+      "sourceBytes": 297607,
+      "targetBytes": 15734
+    },
+    {
+      "from": "Z-AB01.png",
+      "to": "Z-AB01.webp",
+      "sourceBytes": 294675,
+      "targetBytes": 13338
+    },
+    {
+      "from": "Z-AB02.png",
+      "to": "Z-AB02.webp",
+      "sourceBytes": 293021,
+      "targetBytes": 13280
+    },
+    {
+      "from": "Z-AB03.png",
+      "to": "Z-AB03.webp",
+      "sourceBytes": 280202,
+      "targetBytes": 19782
+    },
+    {
+      "from": "Z-AB04.png",
+      "to": "Z-AB04.webp",
+      "sourceBytes": 285582,
+      "targetBytes": 19746
+    },
+    {
+      "from": "Z-AB05.png",
+      "to": "Z-AB05.webp",
+      "sourceBytes": 318749,
+      "targetBytes": 17062
+    },
+    {
+      "from": "Z-AB06.png",
+      "to": "Z-AB06.webp",
+      "sourceBytes": 286865,
+      "targetBytes": 15160
+    },
+    {
+      "from": "Z-AC01.png",
+      "to": "Z-AC01.webp",
+      "sourceBytes": 291593,
+      "targetBytes": 14926
+    },
+    {
+      "from": "Z-AC02.png",
+      "to": "Z-AC02.webp",
+      "sourceBytes": 296783,
+      "targetBytes": 15716
+    },
+    {
+      "from": "Z-AC03.png",
+      "to": "Z-AC03.webp",
+      "sourceBytes": 299035,
+      "targetBytes": 16380
+    },
+    {
+      "from": "Z-AC04.png",
+      "to": "Z-AC04.webp",
+      "sourceBytes": 296691,
+      "targetBytes": 15658
+    },
+    {
+      "from": "Z-AC05.png",
+      "to": "Z-AC05.webp",
+      "sourceBytes": 322436,
+      "targetBytes": 16692
+    },
+    {
+      "from": "Z-AC06.png",
+      "to": "Z-AC06.webp",
+      "sourceBytes": 299133,
+      "targetBytes": 15314
+    },
+    {
+      "from": "Z-AD01.png",
+      "to": "Z-AD01.webp",
+      "sourceBytes": 299293,
+      "targetBytes": 15180
+    },
+    {
+      "from": "Z-AD02.png",
+      "to": "Z-AD02.webp",
+      "sourceBytes": 292600,
+      "targetBytes": 14772
+    },
+    {
+      "from": "Z-AD03.png",
+      "to": "Z-AD03.webp",
+      "sourceBytes": 294427,
+      "targetBytes": 16628
+    },
+    {
+      "from": "Z-AD04.png",
+      "to": "Z-AD04.webp",
+      "sourceBytes": 293227,
+      "targetBytes": 15266
+    },
+    {
+      "from": "Z-AD05.png",
+      "to": "Z-AD05.webp",
+      "sourceBytes": 328404,
+      "targetBytes": 18414
+    },
+    {
+      "from": "Z-AD06.png",
+      "to": "Z-AD06.webp",
+      "sourceBytes": 289805,
+      "targetBytes": 15356
+    },
+    {
+      "from": "Z-AE01.png",
+      "to": "Z-AE01.webp",
+      "sourceBytes": 292812,
+      "targetBytes": 15396
+    },
+    {
+      "from": "Z-AE02.png",
+      "to": "Z-AE02.webp",
+      "sourceBytes": 293507,
+      "targetBytes": 14690
+    },
+    {
+      "from": "Z-AE03.png",
+      "to": "Z-AE03.webp",
+      "sourceBytes": 315059,
+      "targetBytes": 16766
+    },
+    {
+      "from": "Z-AE04.png",
+      "to": "Z-AE04.webp",
+      "sourceBytes": 320367,
+      "targetBytes": 18862
+    },
+    {
+      "from": "Z-AE05.png",
+      "to": "Z-AE05.webp",
+      "sourceBytes": 332123,
+      "targetBytes": 22000
+    },
+    {
+      "from": "Z-BA01.png",
+      "to": "Z-BA01.webp",
+      "sourceBytes": 183488,
+      "targetBytes": 18272
+    },
+    {
+      "from": "Z-BB01.png",
+      "to": "Z-BB01.webp",
+      "sourceBytes": 266618,
+      "targetBytes": 17190
+    },
+    {
+      "from": "Z-BA02.png",
+      "to": "Z-BA02.webp",
+      "sourceBytes": 277951,
+      "targetBytes": 18058
+    },
+    {
+      "from": "Z-BB02.png",
+      "to": "Z-BB02.webp",
+      "sourceBytes": 275093,
+      "targetBytes": 17870
+    },
+    {
+      "from": "Z-BB03.png",
+      "to": "Z-BB03.webp",
+      "sourceBytes": 275981,
+      "targetBytes": 18626
+    },
+    {
+      "from": "Z-BB04.png",
+      "to": "Z-BB04.webp",
+      "sourceBytes": 279640,
+      "targetBytes": 19100
+    },
+    {
+      "from": "Z-AE06.png",
+      "to": "Z-AE06.webp",
+      "sourceBytes": 518770,
+      "targetBytes": 34800
+    },
+    {
+      "from": "Z-BC01.png",
+      "to": "Z-BC01.webp",
+      "sourceBytes": 268690,
+      "targetBytes": 17146
+    },
+    {
+      "from": "Z-BC02.png",
+      "to": "Z-BC02.webp",
+      "sourceBytes": 280340,
+      "targetBytes": 18714
+    },
+    {
+      "from": "Z-BC03.png",
+      "to": "Z-BC03.webp",
+      "sourceBytes": 276875,
+      "targetBytes": 18218
+    },
+    {
+      "from": "Z-BC04.png",
+      "to": "Z-BC04.webp",
+      "sourceBytes": 280754,
+      "targetBytes": 18660
+    },
+    {
+      "from": "Z-BD01.png",
+      "to": "Z-BD01.webp",
+      "sourceBytes": 269996,
+      "targetBytes": 17442
+    },
+    {
+      "from": "Z-BD02.png",
+      "to": "Z-BD02.webp",
+      "sourceBytes": 283808,
+      "targetBytes": 18550
+    },
+    {
+      "from": "Z-BD03.png",
+      "to": "Z-BD03.webp",
+      "sourceBytes": 288911,
+      "targetBytes": 21112
+    },
+    {
+      "from": "Z-BD04.png",
+      "to": "Z-BD04.webp",
+      "sourceBytes": 285946,
+      "targetBytes": 20182
+    },
+    {
+      "from": "Z-BE01.png",
+      "to": "Z-BE01.webp",
+      "sourceBytes": 290085,
+      "targetBytes": 19726
+    },
+    {
+      "from": "Z-BE02.png",
+      "to": "Z-BE02.webp",
+      "sourceBytes": 280464,
+      "targetBytes": 18912
+    },
+    {
+      "from": "Z-BE03.png",
+      "to": "Z-BE03.webp",
+      "sourceBytes": 289023,
+      "targetBytes": 20306
+    },
+    {
+      "from": "Z-BE04.png",
+      "to": "Z-BE04.webp",
+      "sourceBytes": 279040,
+      "targetBytes": 18182
+    },
+    {
+      "from": "Z-CA01.png",
+      "to": "Z-CA01.webp",
+      "sourceBytes": 290554,
+      "targetBytes": 17928
+    },
+    {
+      "from": "Z-CA02.png",
+      "to": "Z-CA02.webp",
+      "sourceBytes": 284615,
+      "targetBytes": 17952
+    },
+    {
+      "from": "Z-CA03.png",
+      "to": "Z-CA03.webp",
+      "sourceBytes": 315696,
+      "targetBytes": 22724
+    },
+    {
+      "from": "Z-CA04.png",
+      "to": "Z-CA04.webp",
+      "sourceBytes": 295247,
+      "targetBytes": 19208
+    },
+    {
+      "from": "Z-CB01.png",
+      "to": "Z-CB01.webp",
+      "sourceBytes": 286130,
+      "targetBytes": 18086
+    },
+    {
+      "from": "Z-CB02.png",
+      "to": "Z-CB02.webp",
+      "sourceBytes": 290745,
+      "targetBytes": 19844
+    },
+    {
+      "from": "Z-CB03.png",
+      "to": "Z-CB03.webp",
+      "sourceBytes": 294809,
+      "targetBytes": 21020
+    },
+    {
+      "from": "Z-CB04.png",
+      "to": "Z-CB04.webp",
+      "sourceBytes": 303462,
+      "targetBytes": 21670
+    },
+    {
+      "from": "Z-CC02.png",
+      "to": "Z-CC02.webp",
+      "sourceBytes": 276875,
+      "targetBytes": 17666
+    },
+    {
+      "from": "Z-CC01.png",
+      "to": "Z-CC01.webp",
+      "sourceBytes": 280532,
+      "targetBytes": 18472
+    },
+    {
+      "from": "Z-CC04.png",
+      "to": "Z-CC04.webp",
+      "sourceBytes": 278082,
+      "targetBytes": 17372
+    },
+    {
+      "from": "Z-CC03.png",
+      "to": "Z-CC03.webp",
+      "sourceBytes": 308862,
+      "targetBytes": 23678
+    },
+    {
+      "from": "Z-CD01.png",
+      "to": "Z-CD01.webp",
+      "sourceBytes": 290393,
+      "targetBytes": 18132
+    },
+    {
+      "from": "Z-CD02.png",
+      "to": "Z-CD02.webp",
+      "sourceBytes": 304777,
+      "targetBytes": 22228
+    },
+    {
+      "from": "Z-CD04.png",
+      "to": "Z-CD04.webp",
+      "sourceBytes": 284241,
+      "targetBytes": 18752
+    },
+    {
+      "from": "Z-CD03.png",
+      "to": "Z-CD03.webp",
+      "sourceBytes": 301960,
+      "targetBytes": 19664
+    },
+    {
+      "from": "Z-CE002.png",
+      "to": "Z-CE002.webp",
+      "sourceBytes": 298856,
+      "targetBytes": 21106
+    },
+    {
+      "from": "Z-CE01.png",
+      "to": "Z-CE01.webp",
+      "sourceBytes": 292018,
+      "targetBytes": 18068
+    },
+    {
+      "from": "Z-CE04.png",
+      "to": "Z-CE04.webp",
+      "sourceBytes": 287420,
+      "targetBytes": 19544
+    },
+    {
+      "from": "Z-CE03.png",
+      "to": "Z-CE03.webp",
+      "sourceBytes": 316128,
+      "targetBytes": 23520
+    },
+    {
+      "from": "Z-DA01.png",
+      "to": "Z-DA01.webp",
+      "sourceBytes": 297654,
+      "targetBytes": 22598
+    },
+    {
+      "from": "Z-DA02.png",
+      "to": "Z-DA02.webp",
+      "sourceBytes": 312933,
+      "targetBytes": 23260
+    },
+    {
+      "from": "Z-DA03.png",
+      "to": "Z-DA03.webp",
+      "sourceBytes": 318126,
+      "targetBytes": 23520
+    },
+    {
+      "from": "Z-DA04.png",
+      "to": "Z-DA04.webp",
+      "sourceBytes": 324904,
+      "targetBytes": 24918
+    },
+    {
+      "from": "aadb8j.png",
+      "to": "aadb8j.webp",
+      "sourceBytes": 571121,
+      "targetBytes": 69814
+    },
+    {
+      "from": "a05fqm.png",
+      "to": "a05fqm.webp",
+      "sourceBytes": 795995,
+      "targetBytes": 100554
+    },
+    {
+      "from": "a9hiq3.png",
+      "to": "a9hiq3.webp",
+      "sourceBytes": 1390252,
+      "targetBytes": 191780
+    },
+    {
+      "from": "aflz4b.png",
+      "to": "aflz4b.webp",
+      "sourceBytes": 1885077,
+      "targetBytes": 230042
+    },
+    {
+      "from": "aubscy.png",
+      "to": "aubscy.webp",
+      "sourceBytes": 1239218,
+      "targetBytes": 173702
+    },
+    {
+      "from": "avzglf.png",
+      "to": "avzglf.webp",
+      "sourceBytes": 976698,
+      "targetBytes": 117678
+    },
+    {
+      "from": "b0fbrc.png",
+      "to": "b0fbrc.webp",
+      "sourceBytes": 1296508,
+      "targetBytes": 178364
+    },
+    {
+      "from": "b2g8tc.png",
+      "to": "b2g8tc.webp",
+      "sourceBytes": 1102089,
+      "targetBytes": 154172
+    },
+    {
+      "from": "b5kld4.png",
+      "to": "b5kld4.webp",
+      "sourceBytes": 1642088,
+      "targetBytes": 185670
+    },
+    {
+      "from": "b627bb.png",
+      "to": "b627bb.webp",
+      "sourceBytes": 1239173,
+      "targetBytes": 167706
+    },
+    {
+      "from": "bcqvh0.png",
+      "to": "bcqvh0.webp",
+      "sourceBytes": 909745,
+      "targetBytes": 113586
+    },
+    {
+      "from": "b6k3k7.png",
+      "to": "b6k3k7.webp",
+      "sourceBytes": 1523652,
+      "targetBytes": 147400
+    },
+    {
+      "from": "bfcbgi.png",
+      "to": "bfcbgi.webp",
+      "sourceBytes": 1332552,
+      "targetBytes": 134276
+    },
+    {
+      "from": "bgwvcm.png",
+      "to": "bgwvcm.webp",
+      "sourceBytes": 947659,
+      "targetBytes": 126396
+    },
+    {
+      "from": "bgyn3e.png",
+      "to": "bgyn3e.webp",
+      "sourceBytes": 1352071,
+      "targetBytes": 159118
+    },
+    {
+      "from": "bjrace.png",
+      "to": "bjrace.webp",
+      "sourceBytes": 1078960,
+      "targetBytes": 140286
+    },
+    {
+      "from": "blnj70.png",
+      "to": "blnj70.webp",
+      "sourceBytes": 1067885,
+      "targetBytes": 148112
+    },
+    {
+      "from": "bmvhd3.png",
+      "to": "bmvhd3.webp",
+      "sourceBytes": 936138,
+      "targetBytes": 126146
+    },
+    {
+      "from": "bofnlz.png",
+      "to": "bofnlz.webp",
+      "sourceBytes": 1790304,
+      "targetBytes": 212960
+    },
+    {
+      "from": "bytnyj.png",
+      "to": "bytnyj.webp",
+      "sourceBytes": 1659271,
+      "targetBytes": 243860
+    },
+    {
+      "from": "ckfhcv.png",
+      "to": "ckfhcv.webp",
+      "sourceBytes": 1111002,
+      "targetBytes": 142470
+    },
+    {
+      "from": "c4hky8.png",
+      "to": "c4hky8.webp",
+      "sourceBytes": 1354225,
+      "targetBytes": 191642
+    },
+    {
+      "from": "cuuvoz.png",
+      "to": "cuuvoz.webp",
+      "sourceBytes": 558251,
+      "targetBytes": 67330
+    },
+    {
+      "from": "clk797.png",
+      "to": "clk797.webp",
+      "sourceBytes": 1245267,
+      "targetBytes": 121004
+    },
+    {
+      "from": "cpbikh.png",
+      "to": "cpbikh.webp",
+      "sourceBytes": 1092662,
+      "targetBytes": 155962
+    },
+    {
+      "from": "cqjxh8.png",
+      "to": "cqjxh8.webp",
+      "sourceBytes": 1131399,
+      "targetBytes": 153078
+    },
+    {
+      "from": "cw8o9q.png",
+      "to": "cw8o9q.webp",
+      "sourceBytes": 1253395,
+      "targetBytes": 177584
+    },
+    {
+      "from": "cwea17.png",
+      "to": "cwea17.webp",
+      "sourceBytes": 1210240,
+      "targetBytes": 165120
+    },
+    {
+      "from": "d0ypl3.png",
+      "to": "d0ypl3.webp",
+      "sourceBytes": 1352654,
+      "targetBytes": 138246
+    },
+    {
+      "from": "d6khed.png",
+      "to": "d6khed.webp",
+      "sourceBytes": 1197722,
+      "targetBytes": 175628
+    },
+    {
+      "from": "dhmyks.png",
+      "to": "dhmyks.webp",
+      "sourceBytes": 1128837,
+      "targetBytes": 159206
+    },
+    {
+      "from": "dar44r.png",
+      "to": "dar44r.webp",
+      "sourceBytes": 1589526,
+      "targetBytes": 227050
+    },
+    {
+      "from": "dkib07.png",
+      "to": "dkib07.webp",
+      "sourceBytes": 1813059,
+      "targetBytes": 211966
+    },
+    {
+      "from": "dsxl5s.png",
+      "to": "dsxl5s.webp",
+      "sourceBytes": 1125825,
+      "targetBytes": 154764
+    },
+    {
+      "from": "dsysbj.png",
+      "to": "dsysbj.webp",
+      "sourceBytes": 1100871,
+      "targetBytes": 140806
+    },
+    {
+      "from": "dtazsq.png",
+      "to": "dtazsq.webp",
+      "sourceBytes": 1410099,
+      "targetBytes": 198358
+    },
+    {
+      "from": "dtmewx.png",
+      "to": "dtmewx.webp",
+      "sourceBytes": 968009,
+      "targetBytes": 125796
+    },
+    {
+      "from": "dxmcti.png",
+      "to": "dxmcti.webp",
+      "sourceBytes": 941142,
+      "targetBytes": 128976
+    },
+    {
+      "from": "e1l1ih.png",
+      "to": "e1l1ih.webp",
+      "sourceBytes": 613281,
+      "targetBytes": 76026
+    },
+    {
+      "from": "dyhfbl.png",
+      "to": "dyhfbl.webp",
+      "sourceBytes": 1263039,
+      "targetBytes": 187424
+    },
+    {
+      "from": "e3ej8o.png",
+      "to": "e3ej8o.webp",
+      "sourceBytes": 1223056,
+      "targetBytes": 167598
+    },
+    {
+      "from": "e9isx6.png",
+      "to": "e9isx6.webp",
+      "sourceBytes": 1121218,
+      "targetBytes": 137000
+    },
+    {
+      "from": "ebqg2a.png",
+      "to": "ebqg2a.webp",
+      "sourceBytes": 1256572,
+      "targetBytes": 153642
+    },
+    {
+      "from": "eh3o9a.png",
+      "to": "eh3o9a.webp",
+      "sourceBytes": 1166209,
+      "targetBytes": 158778
+    },
+    {
+      "from": "ehf5w7.png",
+      "to": "ehf5w7.webp",
+      "sourceBytes": 1252069,
+      "targetBytes": 129814
+    },
+    {
+      "from": "etjf6s.png",
+      "to": "etjf6s.webp",
+      "sourceBytes": 1301057,
+      "targetBytes": 180736
+    },
+    {
+      "from": "evud06.png",
+      "to": "evud06.webp",
+      "sourceBytes": 904718,
+      "targetBytes": 110112
+    },
+    {
+      "from": "f5c7ny.png",
+      "to": "f5c7ny.webp",
+      "sourceBytes": 992835,
+      "targetBytes": 126164
+    },
+    {
+      "from": "f643pd.png",
+      "to": "f643pd.webp",
+      "sourceBytes": 1069800,
+      "targetBytes": 147534
+    },
+    {
+      "from": "f8ybgq.png",
+      "to": "f8ybgq.webp",
+      "sourceBytes": 1428137,
+      "targetBytes": 147842
+    },
+    {
+      "from": "fchyks.png",
+      "to": "fchyks.webp",
+      "sourceBytes": 1060516,
+      "targetBytes": 136898
+    },
+    {
+      "from": "fnmsf1.png",
+      "to": "fnmsf1.webp",
+      "sourceBytes": 518730,
+      "targetBytes": 83298
+    },
+    {
+      "from": "ekihm7.jpg",
+      "to": "ekihm7.webp",
+      "sourceBytes": 2190045,
+      "targetBytes": 895732
+    },
+    {
+      "from": "ffizt1.png",
+      "to": "ffizt1.webp",
+      "sourceBytes": 1120969,
+      "targetBytes": 157060
+    },
+    {
+      "from": "ftqhyh.png",
+      "to": "ftqhyh.webp",
+      "sourceBytes": 1568250,
+      "targetBytes": 183040
+    },
+    {
+      "from": "gcg0zg.png",
+      "to": "gcg0zg.webp",
+      "sourceBytes": 1434421,
+      "targetBytes": 213472
+    },
+    {
+      "from": "ghyhbq.png",
+      "to": "ghyhbq.webp",
+      "sourceBytes": 977634,
+      "targetBytes": 125150
+    },
+    {
+      "from": "gm7dy6.png",
+      "to": "gm7dy6.webp",
+      "sourceBytes": 1298148,
+      "targetBytes": 174178
+    },
+    {
+      "from": "gujl1x.png",
+      "to": "gujl1x.webp",
+      "sourceBytes": 1202067,
+      "targetBytes": 170084
+    },
+    {
+      "from": "gvnqm8.png",
+      "to": "gvnqm8.webp",
+      "sourceBytes": 1188239,
+      "targetBytes": 124280
+    },
+    {
+      "from": "gvjbi9.png",
+      "to": "gvjbi9.webp",
+      "sourceBytes": 1157516,
+      "targetBytes": 162234
+    },
+    {
+      "from": "gzy32u.png",
+      "to": "gzy32u.webp",
+      "sourceBytes": 1316024,
+      "targetBytes": 186962
+    },
+    {
+      "from": "h4qhte.png",
+      "to": "h4qhte.webp",
+      "sourceBytes": 1350711,
+      "targetBytes": 129770
+    },
+    {
+      "from": "hpdn69.png",
+      "to": "hpdn69.webp",
+      "sourceBytes": 1540013,
+      "targetBytes": 172560
+    },
+    {
+      "from": "hudk5q.png",
+      "to": "hudk5q.webp",
+      "sourceBytes": 1445159,
+      "targetBytes": 208952
+    },
+    {
+      "from": "hvo4ea.png",
+      "to": "hvo4ea.webp",
+      "sourceBytes": 1378345,
+      "targetBytes": 208172
+    },
+    {
+      "from": "i0pm5j.png",
+      "to": "i0pm5j.webp",
+      "sourceBytes": 1294353,
+      "targetBytes": 167006
+    },
+    {
+      "from": "i35uep.png",
+      "to": "i35uep.webp",
+      "sourceBytes": 1198496,
+      "targetBytes": 170862
+    },
+    {
+      "from": "i9bgpp.png",
+      "to": "i9bgpp.webp",
+      "sourceBytes": 1734590,
+      "targetBytes": 202274
+    },
+    {
+      "from": "ih1eil.png",
+      "to": "ih1eil.webp",
+      "sourceBytes": 1193575,
+      "targetBytes": 157362
+    },
+    {
+      "from": "iifhba.png",
+      "to": "iifhba.webp",
+      "sourceBytes": 1460108,
+      "targetBytes": 230536
+    },
+    {
+      "from": "ijyiip.png",
+      "to": "ijyiip.webp",
+      "sourceBytes": 1246812,
+      "targetBytes": 176746
+    },
+    {
+      "from": "ikq9d9.png",
+      "to": "ikq9d9.webp",
+      "sourceBytes": 1370614,
+      "targetBytes": 130600
+    },
+    {
+      "from": "iuw80r.png",
+      "to": "iuw80r.webp",
+      "sourceBytes": 458931,
+      "targetBytes": 69324
+    },
+    {
+      "from": "ipcf3a.png",
+      "to": "ipcf3a.webp",
+      "sourceBytes": 1759108,
+      "targetBytes": 204672
+    },
+    {
+      "from": "iv07o8.png",
+      "to": "iv07o8.webp",
+      "sourceBytes": 1384892,
+      "targetBytes": 146756
+    },
+    {
+      "from": "iyiwqd.png",
+      "to": "iyiwqd.webp",
+      "sourceBytes": 906984,
+      "targetBytes": 117076
+    },
+    {
+      "from": "iyky33.png",
+      "to": "iyky33.webp",
+      "sourceBytes": 612258,
+      "targetBytes": 101554
+    },
+    {
+      "from": "ixe85e.png",
+      "to": "ixe85e.webp",
+      "sourceBytes": 1786948,
+      "targetBytes": 197554
+    },
+    {
+      "from": "iz80jo.png",
+      "to": "iz80jo.webp",
+      "sourceBytes": 1162452,
+      "targetBytes": 166020
+    },
+    {
+      "from": "j8usyf.png",
+      "to": "j8usyf.webp",
+      "sourceBytes": 1023718,
+      "targetBytes": 130690
+    },
+    {
+      "from": "j2e9ej.png",
+      "to": "j2e9ej.webp",
+      "sourceBytes": 1367008,
+      "targetBytes": 132090
+    },
+    {
+      "from": "jf142i.png",
+      "to": "jf142i.webp",
+      "sourceBytes": 907747,
+      "targetBytes": 104022
+    },
+    {
+      "from": "jp5uuf.png",
+      "to": "jp5uuf.webp",
+      "sourceBytes": 1195811,
+      "targetBytes": 180954
+    },
+    {
+      "from": "jr56ln.png",
+      "to": "jr56ln.webp",
+      "sourceBytes": 1387018,
+      "targetBytes": 157972
+    },
+    {
+      "from": "jjukvz.png",
+      "to": "jjukvz.webp",
+      "sourceBytes": 1778417,
+      "targetBytes": 209276
+    },
+    {
+      "from": "jwnjla.png",
+      "to": "jwnjla.webp",
+      "sourceBytes": 1123344,
+      "targetBytes": 150626
+    },
+    {
+      "from": "k0b168.png",
+      "to": "k0b168.webp",
+      "sourceBytes": 1180092,
+      "targetBytes": 160180
+    },
+    {
+      "from": "k4b8oo.png",
+      "to": "k4b8oo.webp",
+      "sourceBytes": 1575967,
+      "targetBytes": 160176
+    },
+    {
+      "from": "k7jcfq.png",
+      "to": "k7jcfq.webp",
+      "sourceBytes": 1308342,
+      "targetBytes": 185814
+    },
+    {
+      "from": "k7wod2.png",
+      "to": "k7wod2.webp",
+      "sourceBytes": 1169737,
+      "targetBytes": 156630
+    },
+    {
+      "from": "kdk0h4.png",
+      "to": "kdk0h4.webp",
+      "sourceBytes": 1352379,
+      "targetBytes": 204010
+    },
+    {
+      "from": "ksafdg.png",
+      "to": "ksafdg.webp",
+      "sourceBytes": 965447,
+      "targetBytes": 130758
+    },
+    {
+      "from": "kj8peg.png",
+      "to": "kj8peg.webp",
+      "sourceBytes": 1306933,
+      "targetBytes": 189466
+    },
+    {
+      "from": "khkjea.png",
+      "to": "khkjea.webp",
+      "sourceBytes": 1669070,
+      "targetBytes": 189714
+    },
+    {
+      "from": "ksrdh0.png",
+      "to": "ksrdh0.webp",
+      "sourceBytes": 457336,
+      "targetBytes": 70908
+    },
+    {
+      "from": "l2ehtj.png",
+      "to": "l2ehtj.webp",
+      "sourceBytes": 1261578,
+      "targetBytes": 161068
+    },
+    {
+      "from": "la06hu.png",
+      "to": "la06hu.webp",
+      "sourceBytes": 1049361,
+      "targetBytes": 88698
+    },
+    {
+      "from": "lkaa7z.png",
+      "to": "lkaa7z.webp",
+      "sourceBytes": 1107101,
+      "targetBytes": 145162
+    },
+    {
+      "from": "llpiop.png",
+      "to": "llpiop.webp",
+      "sourceBytes": 1679242,
+      "targetBytes": 263816
+    },
+    {
+      "from": "lm6rxq.png",
+      "to": "lm6rxq.webp",
+      "sourceBytes": 1228496,
+      "targetBytes": 170930
+    },
+    {
+      "from": "m0j48m.png",
+      "to": "m0j48m.webp",
+      "sourceBytes": 1106788,
+      "targetBytes": 148070
+    },
+    {
+      "from": "loorac.png",
+      "to": "loorac.webp",
+      "sourceBytes": 1209094,
+      "targetBytes": 155912
+    },
+    {
+      "from": "m1ljw8.png",
+      "to": "m1ljw8.webp",
+      "sourceBytes": 1477456,
+      "targetBytes": 220272
+    },
+    {
+      "from": "mgw17x.png",
+      "to": "mgw17x.webp",
+      "sourceBytes": 1062046,
+      "targetBytes": 136166
+    },
+    {
+      "from": "mn74g8.png",
+      "to": "mn74g8.webp",
+      "sourceBytes": 1200174,
+      "targetBytes": 170524
+    },
+    {
+      "from": "m8phx1.png",
+      "to": "m8phx1.webp",
+      "sourceBytes": 1283109,
+      "targetBytes": 173588
+    },
+    {
+      "from": "mnekq1.png",
+      "to": "mnekq1.webp",
+      "sourceBytes": 1250946,
+      "targetBytes": 164380
+    },
+    {
+      "from": "mr9eis.png",
+      "to": "mr9eis.webp",
+      "sourceBytes": 1244570,
+      "targetBytes": 126510
+    },
+    {
+      "from": "mqor8d.png",
+      "to": "mqor8d.webp",
+      "sourceBytes": 1446753,
+      "targetBytes": 210124
+    },
+    {
+      "from": "n4wpya.png",
+      "to": "n4wpya.webp",
+      "sourceBytes": 1240704,
+      "targetBytes": 159840
+    },
+    {
+      "from": "nolmcr.png",
+      "to": "nolmcr.webp",
+      "sourceBytes": 1402657,
+      "targetBytes": 142488
+    },
+    {
+      "from": "nqi3b3.png",
+      "to": "nqi3b3.webp",
+      "sourceBytes": 1215912,
+      "targetBytes": 139898
+    },
+    {
+      "from": "ofspi2.png",
+      "to": "ofspi2.webp",
+      "sourceBytes": 1171751,
+      "targetBytes": 162544
+    },
+    {
+      "from": "oijbl9.png",
+      "to": "oijbl9.webp",
+      "sourceBytes": 1391006,
+      "targetBytes": 188132
+    },
+    {
+      "from": "oyoild.png",
+      "to": "oyoild.webp",
+      "sourceBytes": 727832,
+      "targetBytes": 91574
+    },
+    {
+      "from": "ojr6sx.png",
+      "to": "ojr6sx.webp",
+      "sourceBytes": 1211982,
+      "targetBytes": 175010
+    },
+    {
+      "from": "olpdci.png",
+      "to": "olpdci.webp",
+      "sourceBytes": 1285312,
+      "targetBytes": 125910
+    },
+    {
+      "from": "oq79iv.png",
+      "to": "oq79iv.webp",
+      "sourceBytes": 948847,
+      "targetBytes": 134306
+    },
+    {
+      "from": "p5vsei.png",
+      "to": "p5vsei.webp",
+      "sourceBytes": 867580,
+      "targetBytes": 99646
+    },
+    {
+      "from": "pe757h.png",
+      "to": "pe757h.webp",
+      "sourceBytes": 1269767,
+      "targetBytes": 182048
+    },
+    {
+      "from": "pf5pbd.png",
+      "to": "pf5pbd.webp",
+      "sourceBytes": 1120490,
+      "targetBytes": 145322
+    },
+    {
+      "from": "piegj3.png",
+      "to": "piegj3.webp",
+      "sourceBytes": 1738678,
+      "targetBytes": 203636
+    },
+    {
+      "from": "pk5fj1.png",
+      "to": "pk5fj1.webp",
+      "sourceBytes": 1149294,
+      "targetBytes": 159050
+    },
+    {
+      "from": "prmwcs.png",
+      "to": "prmwcs.webp",
+      "sourceBytes": 1111703,
+      "targetBytes": 152812
+    },
+    {
+      "from": "puth1s.png",
+      "to": "puth1s.webp",
+      "sourceBytes": 1120862,
+      "targetBytes": 145796
+    },
+    {
+      "from": "puzoih.png",
+      "to": "puzoih.webp",
+      "sourceBytes": 967817,
+      "targetBytes": 125386
+    },
+    {
+      "from": "pz3w01.png",
+      "to": "pz3w01.webp",
+      "sourceBytes": 1185664,
+      "targetBytes": 116292
+    },
+    {
+      "from": "q6bhgp.png",
+      "to": "q6bhgp.webp",
+      "sourceBytes": 1302055,
+      "targetBytes": 190638
+    },
+    {
+      "from": "q1px31.png",
+      "to": "q1px31.webp",
+      "sourceBytes": 1391539,
+      "targetBytes": 208514
+    },
+    {
+      "from": "qdxsj7.png",
+      "to": "qdxsj7.webp",
+      "sourceBytes": 878208,
+      "targetBytes": 118386
+    },
+    {
+      "from": "qglf3o.png",
+      "to": "qglf3o.webp",
+      "sourceBytes": 840961,
+      "targetBytes": 110372
+    },
+    {
+      "from": "qkzm5o.png",
+      "to": "qkzm5o.webp",
+      "sourceBytes": 1354826,
+      "targetBytes": 142054
+    },
+    {
+      "from": "qjvasw.png",
+      "to": "qjvasw.webp",
+      "sourceBytes": 1252240,
+      "targetBytes": 182224
+    },
+    {
+      "from": "qpkmxn.png",
+      "to": "qpkmxn.webp",
+      "sourceBytes": 1328708,
+      "targetBytes": 170482
+    },
+    {
+      "from": "r2k2ud.png",
+      "to": "r2k2ud.webp",
+      "sourceBytes": 470762,
+      "targetBytes": 75500
+    },
+    {
+      "from": "qvw7xq.png",
+      "to": "qvw7xq.webp",
+      "sourceBytes": 1151516,
+      "targetBytes": 158986
+    },
+    {
+      "from": "r25xqz.png",
+      "to": "r25xqz.webp",
+      "sourceBytes": 1338196,
+      "targetBytes": 176894
+    },
+    {
+      "from": "r4qcq4.png",
+      "to": "r4qcq4.webp",
+      "sourceBytes": 1122072,
+      "targetBytes": 164550
+    },
+    {
+      "from": "r6tfxf.png",
+      "to": "r6tfxf.webp",
+      "sourceBytes": 1461729,
+      "targetBytes": 167522
+    },
+    {
+      "from": "rdfr4y.png",
+      "to": "rdfr4y.webp",
+      "sourceBytes": 1280257,
+      "targetBytes": 174832
+    },
+    {
+      "from": "rwrh1d.png",
+      "to": "rwrh1d.webp",
+      "sourceBytes": 502155,
+      "targetBytes": 60388
+    },
+    {
+      "from": "rgo9eh.png",
+      "to": "rgo9eh.webp",
+      "sourceBytes": 1015468,
+      "targetBytes": 124946
+    },
+    {
+      "from": "rw4ziv.png",
+      "to": "rw4ziv.webp",
+      "sourceBytes": 1162675,
+      "targetBytes": 166836
+    },
+    {
+      "from": "s7cjrp.png",
+      "to": "s7cjrp.webp",
+      "sourceBytes": 1159791,
+      "targetBytes": 164972
+    },
+    {
+      "from": "sc6s3e.png",
+      "to": "sc6s3e.webp",
+      "sourceBytes": 1218694,
+      "targetBytes": 119290
+    },
+    {
+      "from": "s7ji5f.png",
+      "to": "s7ji5f.webp",
+      "sourceBytes": 1209015,
+      "targetBytes": 181362
+    },
+    {
+      "from": "suxluk.png",
+      "to": "suxluk.webp",
+      "sourceBytes": 1144983,
+      "targetBytes": 155838
+    },
+    {
+      "from": "sy64ua.png",
+      "to": "sy64ua.webp",
+      "sourceBytes": 1662873,
+      "targetBytes": 192836
+    },
+    {
+      "from": "szpkb2.png",
+      "to": "szpkb2.webp",
+      "sourceBytes": 973014,
+      "targetBytes": 118690
+    },
+    {
+      "from": "szrlal.png",
+      "to": "szrlal.webp",
+      "sourceBytes": 1139033,
+      "targetBytes": 137356
+    },
+    {
+      "from": "t2m00z.png",
+      "to": "t2m00z.webp",
+      "sourceBytes": 1663384,
+      "targetBytes": 254922
+    },
+    {
+      "from": "t8uhsj.png",
+      "to": "t8uhsj.webp",
+      "sourceBytes": 883675,
+      "targetBytes": 115226
+    },
+    {
+      "from": "tfvuwi.png",
+      "to": "tfvuwi.webp",
+      "sourceBytes": 581059,
+      "targetBytes": 72518
+    },
+    {
+      "from": "t9frpk.png",
+      "to": "t9frpk.webp",
+      "sourceBytes": 1252689,
+      "targetBytes": 182484
+    },
+    {
+      "from": "texhb8.png",
+      "to": "texhb8.webp",
+      "sourceBytes": 1372391,
+      "targetBytes": 190292
+    },
+    {
+      "from": "ts7g84.png",
+      "to": "ts7g84.webp",
+      "sourceBytes": 1486751,
+      "targetBytes": 205570
+    },
+    {
+      "from": "txdnu3.png",
+      "to": "txdnu3.webp",
+      "sourceBytes": 1001825,
+      "targetBytes": 126786
+    },
+    {
+      "from": "tytyei.png",
+      "to": "tytyei.webp",
+      "sourceBytes": 1353070,
+      "targetBytes": 196330
+    },
+    {
+      "from": "u392b5.png",
+      "to": "u392b5.webp",
+      "sourceBytes": 1207058,
+      "targetBytes": 171822
+    },
+    {
+      "from": "u5wgvb.png",
+      "to": "u5wgvb.webp",
+      "sourceBytes": 1099428,
+      "targetBytes": 138194
+    },
+    {
+      "from": "u3e8bz.png",
+      "to": "u3e8bz.webp",
+      "sourceBytes": 1449252,
+      "targetBytes": 201780
+    },
+    {
+      "from": "u72k09.png",
+      "to": "u72k09.webp",
+      "sourceBytes": 1057050,
+      "targetBytes": 134266
+    },
+    {
+      "from": "u607yt.png",
+      "to": "u607yt.webp",
+      "sourceBytes": 1271201,
+      "targetBytes": 184020
+    },
+    {
+      "from": "udroqp.png",
+      "to": "udroqp.webp",
+      "sourceBytes": 894730,
+      "targetBytes": 108154
+    },
+    {
+      "from": "ujzp8u.png",
+      "to": "ujzp8u.webp",
+      "sourceBytes": 889001,
+      "targetBytes": 118012
+    },
+    {
+      "from": "ufb9ya.png",
+      "to": "ufb9ya.webp",
+      "sourceBytes": 1428782,
+      "targetBytes": 135460
+    },
+    {
+      "from": "uq9u9v.png",
+      "to": "uq9u9v.webp",
+      "sourceBytes": 1039321,
+      "targetBytes": 143364
+    },
+    {
+      "from": "ut2qq2.png",
+      "to": "ut2qq2.webp",
+      "sourceBytes": 1348103,
+      "targetBytes": 125936
+    },
+    {
+      "from": "v1gzxs.png",
+      "to": "v1gzxs.webp",
+      "sourceBytes": 1351294,
+      "targetBytes": 133850
+    },
+    {
+      "from": "uwzeny.png",
+      "to": "uwzeny.webp",
+      "sourceBytes": 1322117,
+      "targetBytes": 171586
+    },
+    {
+      "from": "uzp61h.png",
+      "to": "uzp61h.webp",
+      "sourceBytes": 1305495,
+      "targetBytes": 172114
+    },
+    {
+      "from": "veixm0.png",
+      "to": "veixm0.webp",
+      "sourceBytes": 958766,
+      "targetBytes": 104894
+    },
+    {
+      "from": "vl3tex.png",
+      "to": "vl3tex.webp",
+      "sourceBytes": 1201715,
+      "targetBytes": 162810
+    },
+    {
+      "from": "w6suye.png",
+      "to": "w6suye.webp",
+      "sourceBytes": 1146827,
+      "targetBytes": 153720
+    },
+    {
+      "from": "w4na9g.png",
+      "to": "w4na9g.webp",
+      "sourceBytes": 1907829,
+      "targetBytes": 213298
+    },
+    {
+      "from": "w9znoh.png",
+      "to": "w9znoh.webp",
+      "sourceBytes": 1191689,
+      "targetBytes": 160220
+    },
+    {
+      "from": "wcb81i.png",
+      "to": "wcb81i.webp",
+      "sourceBytes": 1184869,
+      "targetBytes": 155880
+    },
+    {
+      "from": "wdkcob.png",
+      "to": "wdkcob.webp",
+      "sourceBytes": 976646,
+      "targetBytes": 127576
+    },
+    {
+      "from": "wdxw4r.png",
+      "to": "wdxw4r.webp",
+      "sourceBytes": 1220025,
+      "targetBytes": 169196
+    },
+    {
+      "from": "wq12gz.png",
+      "to": "wq12gz.webp",
+      "sourceBytes": 1701417,
+      "targetBytes": 183308
+    },
+    {
+      "from": "wy16ur.png",
+      "to": "wy16ur.webp",
+      "sourceBytes": 841212,
+      "targetBytes": 106046
+    },
+    {
+      "from": "x0ry5x.png",
+      "to": "x0ry5x.webp",
+      "sourceBytes": 1204251,
+      "targetBytes": 166574
+    },
+    {
+      "from": "x1swmg.png",
+      "to": "x1swmg.webp",
+      "sourceBytes": 1234008,
+      "targetBytes": 173986
+    },
+    {
+      "from": "x4kk6o.png",
+      "to": "x4kk6o.webp",
+      "sourceBytes": 1068316,
+      "targetBytes": 137758
+    },
+    {
+      "from": "x7f5wf.png",
+      "to": "x7f5wf.webp",
+      "sourceBytes": 1135948,
+      "targetBytes": 145310
+    },
+    {
+      "from": "x7i72d.png",
+      "to": "x7i72d.webp",
+      "sourceBytes": 1349657,
+      "targetBytes": 126966
+    },
+    {
+      "from": "y460em.png",
+      "to": "y460em.webp",
+      "sourceBytes": 264958,
+      "targetBytes": 34722
+    },
+    {
+      "from": "xewa5f.png",
+      "to": "xewa5f.webp",
+      "sourceBytes": 1771171,
+      "targetBytes": 207698
+    },
+    {
+      "from": "xn584v.png",
+      "to": "xn584v.webp",
+      "sourceBytes": 1212465,
+      "targetBytes": 179204
+    },
+    {
+      "from": "xwscmd.png",
+      "to": "xwscmd.webp",
+      "sourceBytes": 996145,
+      "targetBytes": 125840
+    },
+    {
+      "from": "y6dzit.png",
+      "to": "y6dzit.webp",
+      "sourceBytes": 962056,
+      "targetBytes": 121592
+    },
+    {
+      "from": "y7pcs9.png",
+      "to": "y7pcs9.webp",
+      "sourceBytes": 1432668,
+      "targetBytes": 208448
+    },
+    {
+      "from": "yeophf.png",
+      "to": "yeophf.webp",
+      "sourceBytes": 826819,
+      "targetBytes": 101348
+    },
+    {
+      "from": "yedti0.png",
+      "to": "yedti0.webp",
+      "sourceBytes": 1268830,
+      "targetBytes": 161762
+    },
+    {
+      "from": "yhevm6.png",
+      "to": "yhevm6.webp",
+      "sourceBytes": 1221260,
+      "targetBytes": 171588
+    },
+    {
+      "from": "yn09hi.png",
+      "to": "yn09hi.webp",
+      "sourceBytes": 888921,
+      "targetBytes": 116598
+    },
+    {
+      "from": "ykmy05.png",
+      "to": "ykmy05.webp",
+      "sourceBytes": 1271515,
+      "targetBytes": 177244
+    },
+    {
+      "from": "yr0gtr.png",
+      "to": "yr0gtr.webp",
+      "sourceBytes": 1239846,
+      "targetBytes": 184674
+    },
+    {
+      "from": "yxu4rj.png",
+      "to": "yxu4rj.webp",
+      "sourceBytes": 1324918,
+      "targetBytes": 185736
+    },
+    {
+      "from": "z49p8n.jpg",
+      "to": "z49p8n.webp",
+      "sourceBytes": 132585,
+      "targetBytes": 128418
+    },
+    {
+      "from": "yys4p9.png",
+      "to": "yys4p9.webp",
+      "sourceBytes": 1434975,
+      "targetBytes": 148312
+    },
+    {
+      "from": "z6dhis.png",
+      "to": "z6dhis.webp",
+      "sourceBytes": 451252,
+      "targetBytes": 70368
+    },
+    {
+      "from": "z3ymei.png",
+      "to": "z3ymei.webp",
+      "sourceBytes": 1390172,
+      "targetBytes": 210190
+    },
+    {
+      "from": "z8wmgy.png",
+      "to": "z8wmgy.webp",
+      "sourceBytes": 1260698,
+      "targetBytes": 182380
+    },
+    {
+      "from": "zfg9wc.png",
+      "to": "zfg9wc.webp",
+      "sourceBytes": 891123,
+      "targetBytes": 101818
+    },
+    {
+      "from": "zcvwkx.png",
+      "to": "zcvwkx.webp",
+      "sourceBytes": 1489571,
+      "targetBytes": 226120
+    },
+    {
+      "from": "zkzvt4.png",
+      "to": "zkzvt4.webp",
+      "sourceBytes": 1238945,
+      "targetBytes": 180710
+    },
+    {
+      "from": "zwpl65.jpg",
+      "to": "zwpl65.webp",
+      "sourceBytes": 312568,
+      "targetBytes": 50406
+    },
+    {
+      "from": "zli749.png",
+      "to": "zli749.webp",
+      "sourceBytes": 1159838,
+      "targetBytes": 160078
+    },
+    {
+      "from": "zskkcu.png",
+      "to": "zskkcu.webp",
+      "sourceBytes": 1412384,
+      "targetBytes": 209322
+    }
+  ],
+  "failures": []
+}
